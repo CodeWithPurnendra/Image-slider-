@@ -24,9 +24,6 @@ This project demonstrates DOM manipulation, smooth transitions, and interactive 
 
 ---
 
-
----
-
 ## ⚙️ How It Works
 
 1. Images are placed inside a container  
@@ -40,9 +37,10 @@ This project demonstrates DOM manipulation, smooth transitions, and interactive 
 
 1. Clone the repository
    ```bash
-   git clone https://github.com/CodeWithPurnendra/image-slider.git
+   git clone https://github.com/CodeWithPurnendra/Image-slider-.git
+   ```
 2. Open the project folder
 ```bash
-cd image-slider
+   cd image-slider
 ```
 3. Open index.html in your browser
