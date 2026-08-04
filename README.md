@@ -36,7 +36,7 @@ This project demonstrates DOM manipulation, smooth transitions, and interactive 
 ## ▶️ How to Run Locally
 
 1. Clone the repository
-   ```bash
+```bash
    git clone https://github.com/CodeWithPurnendra/Image-slider-.git
    ```
 2. Open the project folder
