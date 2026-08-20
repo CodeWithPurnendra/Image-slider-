@@ -37,7 +37,7 @@ This project demonstrates DOM manipulation, smooth transitions, and interactive 
 
 1. Clone the repository
 ```bash
-   git clone https://github.com/CodeWithPurnendra/Image-slider.git
+   git clone https://github.com/CodeWithPurnendra/Image-slider-.git
    ```
 2. Open the project folder
 ```bash
