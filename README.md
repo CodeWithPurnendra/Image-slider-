@@ -8,7 +8,7 @@ This project demonstrates DOM manipulation, smooth transitions, and interactive 
 ## 🚀 Features
 
 - 🖼️ Smooth image sliding animation  
-- ⏭️ Next & Previous navigation buttons  
+- ⏭️ Next & Previous navigation buttons   
 - 🔄 Automatic sliding (optional)  
 - 📱 Fully responsive design  
 - ⚡ Lightweight & fast (no libraries)  
